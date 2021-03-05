@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-05T13:02:50.900Z" host="app.diagrams.net" agent="5.0 (X11)" etag="E0DpzKyECK5idu6RYAlR" version="14.4.4" type="github">
+<mxfile modified="2021-03-05T13:10:15.654Z" host="app.diagrams.net" agent="5.0 (X11)" etag="82O9kcg4mXmQZY7umLQq" version="14.4.4" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1422" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -99,6 +99,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="mB_U-3iLVhC4ot-FyMMT-714" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;strokeColor=#34A853;dashed=0;startArrow=blockThin;startFill=1;exitX=1.016;exitY=0.182;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="14" source="653" target="686">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="300" y="360" as="sourcePoint" />
+            <mxPoint x="400" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="261" />
+              <mxPoint x="240" y="174" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mB_U-3iLVhC4ot-FyMMT-716" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;strokeColor=#34A853;dashed=0;startArrow=blockThin;startFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.016;entryY=0.811;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="14" source="mB_U-3iLVhC4ot-FyMMT-694" target="653">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="463.03999999999996" y="370.96000000000004" as="sourcePoint" />
+            <mxPoint x="620" y="284" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="510" />
+              <mxPoint x="240" y="437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mB_U-3iLVhC4ot-FyMMT-712" value="&lt;div&gt;replication&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="14">
+          <mxGeometry x="255" y="540" width="70" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="2" value="CloudSQL replication" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="40" width="720" height="40" as="geometry" />
         </mxCell>
@@ -112,8 +135,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mB_U-3iLVhC4ot-FyMMT-712" value="Text" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="450" width="40" height="20" as="geometry" />
+        <mxCell id="mB_U-3iLVhC4ot-FyMMT-717" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="mB_U-3iLVhC4ot-FyMMT-694">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
